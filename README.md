@@ -2,4 +2,4 @@
 
 Primo esercizio
 
-votazione orale: 6
+voto scritto + orale : 5.5
